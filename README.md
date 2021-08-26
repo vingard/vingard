@@ -1,4 +1,4 @@
 # hi
 hi :)
 
-![statz](https://github-readme-stats.vercel.app/api?username=vingard&count_private=true&theme=dark)
+![statz](https://github-readme-stats.vercel.app/api?username=vingard&count_private=true&theme=dark&include_all_commits=true)
